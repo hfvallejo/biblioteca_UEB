@@ -2,8 +2,8 @@
 <hr />
 
 
-# Proyecto Final- DTW135 | 06. Registro de Libros
-## Integrantes del grupo de trabajo
+# Proyecto Final - Curso desarrollo con Metodologías Agiles | Biblioteca - UEB
+## Integrantes del grupo:
 
 - Maricela Espin
 - Henry Vallejo
